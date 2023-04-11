@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "1vq/yyyH0N10YZTWlJ6rOXiOw5v/oZ0mwe3EvA7Wi32FAhquucs/z1MvSBMdMEwZrXyYnFk+plIoCt+F0t6Xkw==",
+  "success": true,
+  "projectFilePath": "C:\\Repositorios\\News\\News\\News.iOS\\News.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\387039\\.nuget\\packages\\fody\\6.6.4\\fody.6.6.4.nupkg.sha512",
+    "C:\\Users\\387039\\.nuget\\packages\\propertychanged.fody\\4.1.0\\propertychanged.fody.4.1.0.nupkg.sha512",
+    "C:\\Users\\387039\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\387039\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\387039\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
