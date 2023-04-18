@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "uRjJ0av1MsxQU4bFqG7lK0K1g2LGNV9ccm/oQSphVwp4zNrcjO0c8XdFn+keXQyCQfR5aEV+Nq+RFgHzirTw5A==",
+  "dgSpecHash": "/GG6PZQbkHk7Z+F9RMpaiEYg9RTqFWIghAJDlN6flcyIT9LgjR5Olw+/aYr3kccm+FbM2oPcubDfiPXzHgY/4g==",
   "success": true,
   "projectFilePath": "C:\\Repositorios\\News\\News\\News.Android\\News.Android.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\387039\\.nuget\\packages\\autofac\\7.0.1\\autofac.7.0.1.nupkg.sha512",
     "C:\\Users\\387039\\.nuget\\packages\\fody\\6.6.4\\fody.6.6.4.nupkg.sha512",
     "C:\\Users\\387039\\.nuget\\packages\\propertychanged.fody\\4.1.0\\propertychanged.fody.4.1.0.nupkg.sha512",
+    "C:\\Users\\387039\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
     "C:\\Users\\387039\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\387039\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",
     "C:\\Users\\387039\\.nuget\\packages\\xamarin.androidx.annotation\\1.2.0.1\\xamarin.androidx.annotation.1.2.0.1.nupkg.sha512",
@@ -65,5 +67,16 @@
     "C:\\Users\\387039\\.nuget\\packages\\xamarin.google.android.material\\1.4.0.2\\xamarin.google.android.material.1.4.0.2.nupkg.sha512",
     "C:\\Users\\387039\\.nuget\\packages\\xamarin.google.guava.listenablefuture\\1.0.0.2\\xamarin.google.guava.listenablefuture.1.0.0.2.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Downgrade de pacote detectado: Xamarin.Essentials de 1.7.5 para 1.7.0. Referencie o pacote diretamente do projeto para selecionar uma versão diferente. \r\n News.Android -> News -> Xamarin.Essentials (>= 1.7.5) \r\n News.Android -> Xamarin.Essentials (>= 1.7.0)",
+      "libraryId": "Xamarin.Essentials",
+      "targetGraphs": [
+        "MonoAndroid,Version=v13.0"
+      ]
+    }
+  ]
 }

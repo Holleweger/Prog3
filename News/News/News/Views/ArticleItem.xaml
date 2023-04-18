@@ -4,7 +4,9 @@
              x:Class="News.Views.ArticleItem">
   <ContentView.Content>
       <StackLayout>
-          <Label Text="Hello Xamarin.Forms!" />
-      </StackLayout>
+            <Label VerticalOptions="Center"
+                 HorizontalOptions="Center"
+                 Text="Article view!" />
+        </StackLayout>
   </ContentView.Content>
 </ContentView>
