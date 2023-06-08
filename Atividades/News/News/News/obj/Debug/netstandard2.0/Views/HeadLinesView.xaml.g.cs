@@ -8,20 +8,20 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("News.Views.HeadLinesView.xaml", "Views/HeadLinesView.xaml", typeof(global::News.Views.HeadLinesView))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("News.Views.HeadlinesView.xaml", "Views/HeadlinesView.xaml", typeof(global::News.Views.HeadlinesView))]
 
 namespace News.Views {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\HeadLinesView.xaml")]
-    public partial class HeadLinesView : global::Xamarin.Forms.ContentPage {
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\HeadlinesView.xaml")]
+    public partial class HeadlinesView : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private global::Xamarin.Forms.ContentPage headlinesview;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(HeadLinesView));
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(HeadlinesView));
             headlinesview = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.ContentPage>(this, "headlinesview");
         }
     }

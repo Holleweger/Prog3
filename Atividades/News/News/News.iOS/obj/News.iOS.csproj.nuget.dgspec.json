@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repositorios\\News\\News\\News.iOS\\News.iOS.csproj": {}
+    "C:\\Repositorios\\Atividades\\News\\News\\News.iOS\\News.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Repositorios\\News\\News\\News.iOS\\News.iOS.csproj": {
+    "C:\\Repositorios\\Atividades\\News\\News\\News.iOS\\News.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repositorios\\News\\News\\News.iOS\\News.iOS.csproj",
+        "projectUniqueName": "C:\\Repositorios\\Atividades\\News\\News\\News.iOS\\News.iOS.csproj",
         "projectName": "News.iOS",
-        "projectPath": "C:\\Repositorios\\News\\News\\News.iOS\\News.iOS.csproj",
+        "projectPath": "C:\\Repositorios\\Atividades\\News\\News\\News.iOS\\News.iOS.csproj",
         "packagesPath": "C:\\Users\\387039\\.nuget\\packages\\",
-        "outputPath": "C:\\Repositorios\\News\\News\\News.iOS\\obj\\",
+        "outputPath": "C:\\Repositorios\\Atividades\\News\\News\\News.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Repositorios\\News\\News\\News\\News.csproj": {
-                "projectPath": "C:\\Repositorios\\News\\News\\News\\News.csproj"
+              "C:\\Repositorios\\Atividades\\News\\News\\News\\News.csproj": {
+                "projectPath": "C:\\Repositorios\\Atividades\\News\\News\\News\\News.csproj"
               }
             }
           }
@@ -42,6 +42,10 @@
       "frameworks": {
         "xamarinios10": {
           "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            },
             "Xamarin.Essentials": {
               "target": "Package",
               "version": "[1.7.0, )"
@@ -65,14 +69,14 @@
         }
       }
     },
-    "C:\\Repositorios\\News\\News\\News\\News.csproj": {
+    "C:\\Repositorios\\Atividades\\News\\News\\News\\News.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repositorios\\News\\News\\News\\News.csproj",
+        "projectUniqueName": "C:\\Repositorios\\Atividades\\News\\News\\News\\News.csproj",
         "projectName": "News",
-        "projectPath": "C:\\Repositorios\\News\\News\\News\\News.csproj",
+        "projectPath": "C:\\Repositorios\\Atividades\\News\\News\\News\\News.csproj",
         "packagesPath": "C:\\Users\\387039\\.nuget\\packages\\",
-        "outputPath": "C:\\Repositorios\\News\\News\\News\\obj\\",
+        "outputPath": "C:\\Repositorios\\Atividades\\News\\News\\News\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,15 @@
+C:\Repositorios\Atividades\GalleryApp\GalleryApp\GalleryApp\bin\Debug\netstandard2.0\GalleryApp.deps.json
+C:\Repositorios\Atividades\GalleryApp\GalleryApp\GalleryApp\bin\Debug\netstandard2.0\GalleryApp.dll
+C:\Repositorios\Atividades\GalleryApp\GalleryApp\GalleryApp\bin\Debug\netstandard2.0\GalleryApp.pdb
+C:\Repositorios\Atividades\GalleryApp\GalleryApp\GalleryApp\obj\Debug\netstandard2.0\GalleryApp.csproj.AssemblyReference.cache
+C:\Repositorios\Atividades\GalleryApp\GalleryApp\GalleryApp\obj\Debug\netstandard2.0\GalleryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios\Atividades\GalleryApp\GalleryApp\GalleryApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Repositorios\Atividades\GalleryApp\GalleryApp\GalleryApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Repositorios\Atividades\GalleryApp\GalleryApp\GalleryApp\obj\Debug\netstandard2.0\GalleryApp.AssemblyInfoInputs.cache
+C:\Repositorios\Atividades\GalleryApp\GalleryApp\GalleryApp\obj\Debug\netstandard2.0\GalleryApp.AssemblyInfo.cs
+C:\Repositorios\Atividades\GalleryApp\GalleryApp\GalleryApp\obj\Debug\netstandard2.0\GalleryApp.csproj.CoreCompileInputs.cache
+C:\Repositorios\Atividades\GalleryApp\GalleryApp\GalleryApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Repositorios\Atividades\GalleryApp\GalleryApp\GalleryApp\obj\Debug\netstandard2.0\GalleryApp.dll
+C:\Repositorios\Atividades\GalleryApp\GalleryApp\GalleryApp\obj\Debug\netstandard2.0\refint\GalleryApp.dll
+C:\Repositorios\Atividades\GalleryApp\GalleryApp\GalleryApp\obj\Debug\netstandard2.0\GalleryApp.pdb
+C:\Repositorios\Atividades\GalleryApp\GalleryApp\GalleryApp\obj\Debug\netstandard2.0\ref\GalleryApp.dll

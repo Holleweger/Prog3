@@ -8,7 +8,6 @@ public class MonoPackageManager_Resources {
 		"News.dll",
 		"Newtonsoft.Json.dll",
 		"PropertyChanged.dll",
-		"System.Diagnostics.DiagnosticSource.dll",
 		"Xamarin.AndroidX.Activity.dll",
 		"Xamarin.AndroidX.Annotation.dll",
 		"Xamarin.AndroidX.Annotation.Experimental.dll",

@@ -968,11 +968,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Repositorios\\News\\News\\News\\News.csproj",
+      "projectUniqueName": "C:\\Repositorios\\Atividades\\News\\News\\News\\News.csproj",
       "projectName": "News",
-      "projectPath": "C:\\Repositorios\\News\\News\\News\\News.csproj",
+      "projectPath": "C:\\Repositorios\\Atividades\\News\\News\\News\\News.csproj",
       "packagesPath": "C:\\Users\\387039\\.nuget\\packages\\",
-      "outputPath": "C:\\Repositorios\\News\\News\\News\\obj\\",
+      "outputPath": "C:\\Repositorios\\Atividades\\News\\News\\News\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

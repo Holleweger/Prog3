@@ -1,4 +1,5 @@
 ﻿using Autofac;
+
 namespace News
 {
     public static class Resolver

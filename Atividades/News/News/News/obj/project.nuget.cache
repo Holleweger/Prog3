@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rj3n7Jip0/uA96kqBDsAbi2XctEIE7v8Day+aU0v/o6pNxPWp743qscRNhkYtUzJpOm3Etoi0x+0q4RKiKnZ3g==",
+  "dgSpecHash": "ktRM2u5j/YsUnGw4jbaTQ0d5cdHIhVVL6ANyHaYiJFng/OdYlPJX/tIAEdLImvuCjGQQsjWq9cfnYTQ/IXumgA==",
   "success": true,
-  "projectFilePath": "C:\\Repositorios\\News\\News\\News\\News.csproj",
+  "projectFilePath": "C:\\Repositorios\\Atividades\\News\\News\\News\\News.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\387039\\.nuget\\packages\\autofac\\7.0.1\\autofac.7.0.1.nupkg.sha512",
     "C:\\Users\\387039\\.nuget\\packages\\fody\\6.6.4\\fody.6.6.4.nupkg.sha512",

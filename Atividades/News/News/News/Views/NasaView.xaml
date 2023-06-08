@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:views="clr-namespace:News.Views"
+             x:Name="nasaview"
+             Title="Nasa"
+             x:Class="News.Views.NasaView">
+    <ContentPage.Content>
+        <StackLayout Padding="14">
+
+            <CollectionView ItemsSource="{Binding CurrentNews.Photos}">
+                <CollectionView.EmptyView>
+                    <Label Text="Loading" />
+                </CollectionView.EmptyView>
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <ContentView>
+                            <ContentView.GestureRecognizers>
+                                <TapGestureRecognizer
+                                    Command="{Binding BindingContext.ItemSelected, Source={x:Reference nasaview}}"
+                                    CommandParameter="{Binding .}" />
+                            </ContentView.GestureRecognizers>
+                            <views:NasaItem />
+                        </ContentView>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+
+            </CollectionView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

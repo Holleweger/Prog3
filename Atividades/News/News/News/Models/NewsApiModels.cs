@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+
 namespace News.Models
 {
     public class Source
@@ -7,6 +8,7 @@ namespace News.Models
         public string Id { get; set; }
         public string Name { get; set; }
     }
+
     public class Article
     {
         public Source Source { get; set; }
@@ -18,6 +20,7 @@ namespace News.Models
         public DateTime PublishedAt { get; set; }
         public string Content { get; set; }
     }
+
     public class NewsResult
     {
         public string Status { get; set; }
