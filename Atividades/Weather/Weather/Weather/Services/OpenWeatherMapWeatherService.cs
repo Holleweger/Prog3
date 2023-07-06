@@ -16,9 +16,9 @@ namespace Weather.Services
         double longitude)
         {
             var language = CultureInfo.CurrentUICulture.TwoLetterISOLanguageName;
-            var apiKey = "{a9aed2cc014b692a8d5ca4fcf5defaf8}";
+            var apiKey = "7a024451fbf7938f0bc44701285051b4";
             var uri =
-            $"https://api.openweathermap.org/data/2.5/forecast?lat ={ latitude}&lon ={ longitude}&units = metric & lang = { language}&appid ={ apiKey}";
+            $"https://api.openweathermap.org/data/2.5/forecast?lat={latitude}&lon={longitude}&units=metric&lang={language}&appid={apiKey}";
 
             var httpClient = new HttpClient();
             var result = await httpClient.GetStringAsync(uri);
