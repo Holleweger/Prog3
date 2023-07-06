@@ -1,0 +1,17 @@
+C:\Repositorios\Atividades\Weather\Weather\Weather\obj\Debug\netstandard2.0\Weather.csproj.AssemblyReference.cache
+C:\Repositorios\Atividades\Weather\Weather\Weather\obj\Debug\netstandard2.0\Weather.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios\Atividades\Weather\Weather\Weather\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Repositorios\Atividades\Weather\Weather\Weather\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Repositorios\Atividades\Weather\Weather\Weather\obj\Debug\netstandard2.0\Weather.AssemblyInfoInputs.cache
+C:\Repositorios\Atividades\Weather\Weather\Weather\obj\Debug\netstandard2.0\Weather.AssemblyInfo.cs
+C:\Repositorios\Atividades\Weather\Weather\Weather\obj\Debug\netstandard2.0\Weather.csproj.CoreCompileInputs.cache
+C:\Repositorios\Atividades\Weather\Weather\Weather\bin\Debug\netstandard2.0\Weather.deps.json
+C:\Repositorios\Atividades\Weather\Weather\Weather\bin\Debug\netstandard2.0\Weather.dll
+C:\Repositorios\Atividades\Weather\Weather\Weather\bin\Debug\netstandard2.0\Weather.pdb
+C:\Repositorios\Atividades\Weather\Weather\Weather\obj\Debug\netstandard2.0\View\MainView.xaml.g.cs
+C:\Repositorios\Atividades\Weather\Weather\Weather\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Repositorios\Atividades\Weather\Weather\Weather\obj\Debug\netstandard2.0\Weather.dll
+C:\Repositorios\Atividades\Weather\Weather\Weather\obj\Debug\netstandard2.0\refint\Weather.dll
+C:\Repositorios\Atividades\Weather\Weather\Weather\obj\Debug\netstandard2.0\Weather.pdb
+C:\Repositorios\Atividades\Weather\Weather\Weather\obj\Debug\netstandard2.0\ref\Weather.dll
+C:\Repositorios\Atividades\Weather\Weather\Weather\obj\Debug\netstandard2.0\View\MainView_Phone.xaml.g.cs

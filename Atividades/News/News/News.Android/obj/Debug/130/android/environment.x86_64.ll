@@ -81,11 +81,11 @@ target triple = "x86_64-unknown-linux-android"
 @__app_environment_variables_n_1.2 = internal constant [15 x i8] c"MONO_LOG_LEVEL\00", align 1
 @__app_environment_variables_v_1.3 = internal constant [5 x i8] c"info\00", align 1
 @__app_environment_variables_n_2.4 = internal constant [17 x i8] c"XAMARIN_BUILD_ID\00", align 16
-@__app_environment_variables_v_2.5 = internal constant [37 x i8] c"2fcd1909-cab9-48b1-a29e-dba6994f0d5a\00", align 16
+@__app_environment_variables_v_2.5 = internal constant [37 x i8] c"56b7f94b-dc90-474f-91de-2d831a3fb7b0\00", align 16
 @__app_environment_variables_n_3.6 = internal constant [28 x i8] c"XA_HTTP_CLIENT_HANDLER_TYPE\00", align 16
 @__app_environment_variables_v_3.7 = internal constant [41 x i8] c"Xamarin.Android.Net.AndroidClientHandler\00", align 16
 @__app_environment_variables_n_4.8 = internal constant [16 x i8] c"XA_TLS_PROVIDER\00", align 16
-@__app_environment_variables_v_4.9 = internal constant [5 x i8] c"btls\00", align 1
+@__app_environment_variables_v_4.9 = internal constant [7 x i8] c"legacy\00", align 1
 @__app_environment_variables_n_5.10 = internal constant [29 x i8] c"__XA_PACKAGE_NAMING_POLICY__\00", align 16
 @__app_environment_variables_v_5.11 = internal constant [15 x i8] c"LowercaseCrc64\00", align 1
 
@@ -99,7 +99,7 @@ target triple = "x86_64-unknown-linux-android"
 	i8* getelementptr inbounds ([28 x i8], [28 x i8]* @__app_environment_variables_n_3.6, i32 0, i32 0),
 	i8* getelementptr inbounds ([41 x i8], [41 x i8]* @__app_environment_variables_v_3.7, i32 0, i32 0),
 	i8* getelementptr inbounds ([16 x i8], [16 x i8]* @__app_environment_variables_n_4.8, i32 0, i32 0),
-	i8* getelementptr inbounds ([5 x i8], [5 x i8]* @__app_environment_variables_v_4.9, i32 0, i32 0),
+	i8* getelementptr inbounds ([7 x i8], [7 x i8]* @__app_environment_variables_v_4.9, i32 0, i32 0),
 	i8* getelementptr inbounds ([29 x i8], [29 x i8]* @__app_environment_variables_n_5.10, i32 0, i32 0),
 	i8* getelementptr inbounds ([15 x i8], [15 x i8]* @__app_environment_variables_v_5.11, i32 0, i32 0)
 ], align 16

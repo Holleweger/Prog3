@@ -12,8 +12,7 @@ namespace News.Services
     {
         public async Task<Root> GetNasa(NasaScope scope)
         {
-            string url2 = "https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/photos?sol=1001&api_key=wnTZt2UdCoQQGMBVIQhMRb0tX5CDqFAj8oqz0PSr";
-            var webclient2 = new WebClient();
+            string url2 = "https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/photos?sol=1001&api_key=wnTZt2UdCoQQGMBVIQhMRb0tX5CDqFAj8oqz0PSr";            
             HttpClient client = new HttpClient();
             HttpResponseMessage response = await client.GetAsync(url2);
             string jsonResponse = await response.Content.ReadAsStringAsync();

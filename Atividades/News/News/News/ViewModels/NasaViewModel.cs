@@ -36,11 +36,15 @@ namespace News.ViewModels
         }
 
         public ICommand ItemSelected =>
-            new Command(async (selectedItem) =>
-            {
-                var selectedPhoto = selectedItem as Photo;
-                var url = selectedPhoto.img_src;
-                await Navigation.NavigateTo($"{url}");
-            });
+            new Command(async (selectedItem) => {
+                    var selectedPhoto = selectedItem as Photo;
+
+                    //var imageUri = HttpUtility.UrlEncode(selectedPhoto.img_src);
+
+                    var url = selectedPhoto.img_src;
+
+                    await Navigation.NavigateTo(url);
+                }
+            );
     }
 }
